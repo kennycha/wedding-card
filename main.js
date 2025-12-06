@@ -1,3 +1,9 @@
+// @TODO
+// - [] 각자 계좌 하나씩
+// - [] 날짜 변경
+// - [] 사진 포토샵 버전으로 변경
+// - [] 커플링 사진 추가
+
 const cardLink = "https://kennycha.github.io/wedding-card/";
 const weddingDate = "2025-12-21T11:00:00+09:00";
 const galleryImages = [
