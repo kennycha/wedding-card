@@ -194,6 +194,17 @@ main {
   margin-top: 32px;
 }
 
+.invitation .parents {
+  display: flex;
+  justify-content: space-between;
+  width: 220px;
+  margin: 0 auto;
+}
+
+.invitation .parents-group {
+  margin: 32px 0;
+}
+
 .label {
   font-size: 11px;
   letter-spacing: 0.15em;
@@ -439,13 +450,13 @@ main {
   margin: 4px 0 6px;
   font-size: 16px;
   color: var(--text);
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .account-text .value {
-  font-size: 14px;
-  color: var(--muted);
-  font-weight: 400;
+  font-size: 16px;
+  color: var(--text);
+  font-weight: 500;
 }
 
 .copy-btn {
@@ -494,7 +505,7 @@ main {
   justify-content: space-between;
   align-items: center;
   margin-top: 8px;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .call-btn {
