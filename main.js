@@ -1,32 +1,30 @@
-// @TODO
-// - [] 각자 계좌 하나씩
-// - [] 날짜 변경
-// - [] 사진 포토샵 버전으로 변경
-// - [] 커플링 사진 추가
-
 const cardLink = "https://kennycha.github.io/wedding-card/";
-const weddingDate = "2025-12-21T11:00:00+09:00";
+const weddingDate = "2026-03-07T11:00:00+09:00";
 const galleryImages = [
-  "./images/image01.jpg",
-  "./images/image02.jpg",
-  "./images/image03.jpg",
-  "./images/image04.jpg",
-  "./images/image05.jpg",
-  "./images/image06.jpg",
-  "./images/image07.jpg",
-  "./images/image08.jpg",
-  "./images/image09.jpg",
-  "./images/image10.jpg",
-  "./images/image11.jpg",
-  "./images/image12.jpg",
-  "./images/image13.jpg",
-  "./images/image14.jpg",
-  "./images/image15.jpg",
-  "./images/image16.jpg",
-  "./images/image17.jpg",
-  "./images/image18.jpg",
-  "./images/image19.jpg",
-  "./images/image20.jpg",
+  "./images/image00.jpeg",
+  "./images/image01.jpeg",
+  "./images/image02.jpeg",
+  "./images/image03.jpeg",
+  "./images/image04.jpeg",
+  "./images/image05.jpeg",
+  "./images/image06.jpeg",
+  "./images/image07.jpeg",
+  "./images/image08.jpeg",
+  "./images/image09.jpeg",
+  "./images/image10.jpeg",
+  "./images/image11.jpeg",
+  "./images/image12.jpeg",
+  "./images/image13.jpeg",
+  "./images/image14.jpeg",
+  "./images/image15.jpeg",
+  "./images/image16.jpeg",
+  "./images/image17.jpeg",
+  "./images/image18.jpeg",
+  "./images/image19.jpeg",
+  "./images/image20.jpeg",
+  "./images/image21.jpeg",
+  "./images/image22.jpeg",
+  "./images/image23.jpeg",
 ];
 
 const accounts = [
